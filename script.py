@@ -6,7 +6,8 @@
 
 def main():
     # Use a breakpoint in the code line below to debug your script.
-    print("Hola Mundo!")
+    nombre=input("Cual es tu nombre? ")
+    print("Hola",nombre,"Bienvenido a Git!")
 
 
 # Press the green button in the gutter to run the script.
